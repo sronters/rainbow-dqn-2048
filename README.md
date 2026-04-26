@@ -3,7 +3,8 @@
 AI agent for 2048 using a full **Rainbow DQN** stack: Dueling Networks, C51, N-step returns, Prioritized Experience Replay, and NoisyNets. Everything fits in two Python files — no browser automation, no external clients.
 
 ---
-<img width="425" height="355" alt="image" src="https://github.com/user-attachments/assets/b65cf1ea-8e1e-4146-83cc-94650ae52c33" />
+<img width="1246" height="546" alt="image" src="https://github.com/user-attachments/assets/a8651294-4644-431a-abc7-2e4c62d6d789" />
+
 
 ## Project Structure
 
