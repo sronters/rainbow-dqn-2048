@@ -1,4 +1,4 @@
-# Rainbow DQN for 2048
+# Rainbow DQN Reinforcement learning (RL) for 2048
 
 AI agent for 2048 using a full **Rainbow DQN** stack: Dueling Networks, C51, N-step returns, Prioritized Experience Replay, and NoisyNets. Everything fits in two Python files — no browser automation, no external clients.
 
